@@ -22,7 +22,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     id="cordova-plugin-camera"
-    version="4.0.3">
+    version="4.0.3.1">
     <name>Camera</name>
     <description>Cordova Camera Plugin</description>
     <license>Apache 2.0</license>
@@ -152,12 +152,12 @@
         <js-module src="www/CameraPopoverHandle.js" name="CameraPopoverHandle">
             <clobbers target="CameraPopoverHandle" />
         </js-module>
-        
+
         <header-file src="src/osx/CDVCamera.h" />
         <source-file src="src/osx/CDVCamera.m" />
-                
+
         <framework src="Quartz.framework" />
         <framework src="AppKit.framework" />
     </platform>
-    
+
 </plugin>
