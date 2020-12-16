@@ -41,7 +41,7 @@
 * [GH-631](https://github.com/apache/cordova-plugin-camera/pull/631) chore(package): use short notation
 * [GH-629](https://github.com/apache/cordova-plugin-camera/pull/629) feat: migrate to `@cordova/eslint-config@3.x`
 * [GH-626](https://github.com/apache/cordova-plugin-camera/pull/626) ci: fix additional tests
-* [GH-627](https://github.com/apache/cordova-plugin-camera/pull/627) breaking: bump version 5.0.0-dev
+* [GH-627](https://github.com/apache/cordova-plugin-camera/pull/627) breaking: bump version 5.0.0-311
 * [GH-612](https://github.com/apache/cordova-plugin-camera/pull/612) fix(ios): `tempFilePath` called twice if using `CameraUsesGeolocation`
 * [GH-588](https://github.com/apache/cordova-plugin-camera/pull/588) Cache images in device storage, devices have enough space now.
 * [GH-508](https://github.com/apache/cordova-plugin-camera/pull/508) docs(readme): app renamed to Google Photos
